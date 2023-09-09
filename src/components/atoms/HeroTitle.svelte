@@ -2,7 +2,7 @@
 	import { onMount } from 'svelte';
 	import LanyardData from '../../stores/LanyardStore';
 
-	let globalName = 'ushie';
+	let globalName = 'DBX';
 
 	onMount(() => {
 		LanyardData.subscribe(async (e) => {
