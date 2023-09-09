@@ -74,7 +74,7 @@
 	<div class="wrapper">
 		<div class="user">
 			<img
-				src="https://cdn.discordapp.com/avatars/399862294143696897/{avatarId}?size=512"
+				src="https://cdn.discordapp.com/avatars/869501647548743720/{avatarId}?size=512"
 				alt=""
 				class="avatar {status}"
 			/>
