@@ -15,7 +15,7 @@
 
 <div class="logo-container">
 	<HeroImage />
-	<span class="hero-title-mobile">hey, i'm <strong>{globalName.toLowerCase()}</strong></span>
+	<span class="hero-title-mobile">Hey, i'm <strong>{globalName.()}</strong></span>
 </div>
 
 <style>
