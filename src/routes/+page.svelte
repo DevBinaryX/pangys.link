@@ -80,7 +80,7 @@
 		<div class="introduction-container">
 			<HeroTitle />
 			<span class="introduction">
-				Just someone who tinkering with random stuff.
+				Just a random high school student who tinkering with random stuff.
 			</span>
 			<div class="social-buttons">
 				<SocialsHost />
