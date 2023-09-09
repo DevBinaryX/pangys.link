@@ -3,7 +3,7 @@
 	import LanyardData from '../../stores/LanyardStore';
 	import HeroImage from '../atoms/HeroImage.svelte';
 
-	let globalName = 'ushie';
+	let globalName = 'DBX';
 
 	onMount(() => {
 		LanyardData.subscribe(async (e) => {
