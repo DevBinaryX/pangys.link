@@ -80,8 +80,7 @@
 		<div class="introduction-container">
 			<HeroTitle />
 			<span class="introduction">
-				Hi! Just someone who likes tinkering with random stuff. Currently I don't make things, but
-				I'm hoping to change that soon :)
+				Just someone who tinkering with random stuff.
 			</span>
 			<div class="social-buttons">
 				<SocialsHost />
