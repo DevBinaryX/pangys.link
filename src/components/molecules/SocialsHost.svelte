@@ -3,7 +3,7 @@
 </script>
 
 <div class="social-buttons">
-	<SocialItem href="https://github.com/Ushie" icon="github-icon" label="GitHub">
+	<SocialItem href="https://github.com/DevBinaryX" icon="github-icon" label="GitHub">
 		<svg width="28" height="28" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path
 				d="M22.3.7C11 2 1.9 11.3.7 22.7-.5 34.6 6.1 45.2 16.2 49.3c.7.2 1.4-.3 1.4-1.3v-4s-.9.2-2.2.2c-3.4 0-4.9-3-5.1-4.8-.3-1-.8-1.8-1.5-2.5-.7-.3-1-.3-1-.5 0-.5.8-.5 1-.5 1.5 0 2.7 1.7 3.2 2.5 1.2 2 2.7 2.5 3.4 2.5 1 0 1.7-.2 2.2-.5.3-1.8 1-3.5 2.5-4.5-5.7-1.3-9.8-4.6-9.8-10.1 0-2.8 1.2-5.6 2.9-7.6-.2-.5-.5-1.8-.5-3.6 0-1 0-2.5.8-4 0 0 3.4 0 6.8 3.3 1.3-.5 3-.8 4.7-.8 1.7 0 3.4.3 4.9.8 3.2-3.3 6.9-3.3 6.9-3.3.5 1.5.5 3 .5 4 0 2.1-.3 3.1-.5 3.6 1.7 2 2.9 4.5 2.9 7.6 0 5.5-4.1 8.8-9.8 10.1 1.5 1.2 2.5 3.5 2.5 5.8v6.5c0 .8.7 1.6 1.7 1.3 9.1-3.8 15.5-12.9 15.5-23.5C49.6 10.8 37-1 22.3.7z"
@@ -13,7 +13,7 @@
 	</SocialItem>
 
 	<SocialItem
-		href="https://discord.com/users/399862294143696897"
+		href="https://discord.com/users/869501647548743720"
 		icon="discord-icon"
 		label="Discord"
 	>
@@ -25,7 +25,7 @@
 		</svg>
 	</SocialItem>
 
-	<SocialItem href="https://ko-fi.com/ushiekane/" icon="donate-icon" label="Donate">
+	<SocialItem href="https://reddit.com/dbx" icon="reddit-icon" label="Reddit">
 		<svg xmlns="http://www.w3.org/2000/svg" height="28" width="28" viewBox="0 0 24 24">
 			<path
 				d="M1 11h4v11H1zm15-7.75C16.65 2.49 17.66 2 18.7 2 20.55 2 22 3.45 22 5.3c0 2.27-2.91 4.9-6 7.7-3.09-2.81-6-5.44-6-7.7C10 3.45 11.45 2 13.3 2c1.04 0 2.05.49 2.7 1.25zM20 17h-7l-2.09-.73.33-.94L13 16h2.82c.65 0 1.18-.53 1.18-1.18 0-.49-.31-.93-.77-1.11L8.97 11H7v9.02L14 22l8.01-3c-.01-1.1-.9-2-2.01-2z"
