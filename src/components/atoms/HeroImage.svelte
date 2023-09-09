@@ -17,12 +17,12 @@
 		id="favicon"
 		rel="shortcut icon"
 		type="image/png"
-		href="https://cdn.discordapp.com/avatars/399862294143696897/{avatarID}"
+		href="https://cdn.discordapp.com/avatars/869501647548743720/{avatarID}"
 	/>
 </svelte:head>
 
 <img
-	src="https://cdn.discordapp.com/avatars/399862294143696897/{avatarID}?size=512"
+	src="https://cdn.discordapp.com/avatars/869501647548743720/{avatarID}?size=512"
 	class="logo"
 	alt=""
 	draggable="false"
